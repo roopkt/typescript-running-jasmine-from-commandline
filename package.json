@@ -1,0 +1,16 @@
+{
+  "name": "running-jasmine-from-cli-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-ts \"./lib/**/*.spec.ts\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "jasmine-ts": "^0.2.1"
+  }
+}
